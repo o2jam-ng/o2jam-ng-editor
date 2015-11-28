@@ -23,5 +23,10 @@
   "bugs": {
     "url": "https://github.com/o2jam-ng/o2jam-ng-editor/issues"
   },
-  "homepage": "https://github.com/o2jam-ng/o2jam-ng-editor#readme"
+  "homepage": "https://github.com/o2jam-ng/o2jam-ng-editor#readme",
+  "devDependencies": {
+    "o2jam-ng-parser": "0.0.1",
+    "o2jam-ng-render": "0.0.1",
+    "o2jam-ng-utils": "0.0.1"
+  }
 }
