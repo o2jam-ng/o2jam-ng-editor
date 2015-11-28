@@ -1,6 +1,6 @@
 {
   "name": "o2jam-ng-editor",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Note tool for o2jam-ng project.",
   "main": "index.js",
   "scripts": {
